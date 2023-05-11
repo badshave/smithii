@@ -1,0 +1,10 @@
+#EXTINF:-1 tvg-id="smithsonian.uk" tvg-name="UK: VIP Smithsonian FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/uk/smithsonian.png" group-title="UK VIP DOCUMENTARIES",UK: VIP Smithsonian FHD
+http://ip.sltv.be:8080/JhoTeqWJRT/AprW2q3sTp/234578
+#EXTINF:-1 tvg-id="" tvg-name="TH: VIP Smithsonian" tvg-logo="http://51.158.145.100/picons/logos/smithsonianchannel.png" group-title="TH THAILAND",TH: VIP Smithsonian
+http://ip.sltv.be:8080/JhoTeqWJRT/AprW2q3sTp/389906
+#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="US: Smithsonian Channel" tvg-logo="" group-title="US ENTERTAINMENT",US: Smithsonian Channel
+http://ip.sltv.be:8080/JhoTeqWJRT/AprW2q3sTp/362659
+#EXTINF:-1 tvg-id="antennatvhd.us" tvg-name="US: Antenna tv" tvg-logo="" group-title="US ENTERTAINMENT",US: Antenna tv
+http://ip.sltv.be:8080/JhoTeqWJRT/AprW2q3sTp/362658
+#EXTINF:-1 tvg-id="" tvg-name="CA: SMITHSONIAN Channel HD" tvg-logo="http://51.158.145.100/picons/logos/smithsonianchannel.png" group-title="CA CANADA ENGLISH",CA: SMITHSONIAN Channel HD
+http://ip.sltv.be:8080/JhoTeqWJRT/AprW2q3sTp/263277
